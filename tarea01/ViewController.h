@@ -11,7 +11,7 @@
 //: tarea 01
 
 
-import UIKit
+import UIKit    // este texto se lo añadi para verificar que se actualizara la ultima observacion en el repositorio en github
 var datos = 0..<101
 print("El número total de datos son = \(datos.count)")
 
